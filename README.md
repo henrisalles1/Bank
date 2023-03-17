@@ -1,7 +1,7 @@
 # Bank
 Simulador simples de transações, depositos, saques, e criação de contas bancarias.
 Ações:
-  conta = Conta(#numero_da_conta, #titular, #saldo, #limite)/n
+  conta = Conta(#numero_da_conta, #titular, #saldo, #limite)
   conta.extrato 
   conta.saldo
   conta.numero
